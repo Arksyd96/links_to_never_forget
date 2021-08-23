@@ -16,6 +16,7 @@
 - [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks).
 - [All GAN implementation using Keras](github.com/eriklindernoren/Keras-GAN).
 - [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/).
+- [Measuring Mode Collapse in GANs](https://wandb.ai/authors/DCGAN-ndb-test/reports/Measuring-Mode-Collapse-in-GANs--VmlldzoxNzg5MDk).
 
 ### Datasets :
 - [Person car phone dataset for object detection](https://drive.google.com/drive/folders/1cCCDj9hXlRzAbwWOrm8Qk9cl0QOWimyT).
