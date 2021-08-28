@@ -44,4 +44,5 @@
 - [Frank Singhoff - Objets répartis et systèmes temps réel](http://beru.univ-brest.fr/~singhoff/).
 - [Git - petit guide](http://rogerdudler.github.io/git-guide/index.fr.html).
 - [The best of rational male ;)](https://therationalmale.com/the-best-of-rational-male-year-one/).
+- [Streamlit](https://streamlit.io).
 
