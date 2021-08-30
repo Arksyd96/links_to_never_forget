@@ -50,5 +50,4 @@
 - Feature extraction, feature selection, dimension reduction (PCA algorithm).
 - Hierarchical clustering, spatial clustering, expectation maximisation (K-means). 
 - K-NN (K-nearest neighbor).
-- 
 
