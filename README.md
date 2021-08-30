@@ -46,3 +46,9 @@
 - [The best of rational male ;)](https://therationalmale.com/the-best-of-rational-male-year-one/).
 - [Streamlit](https://streamlit.io).
 
+## à apprendre :
+- Feature extraction, feature selection, dimension reduction (PCA algorithm).
+- Hierarchical clustering, spatial clustering, expectation maximisation (K-means). 
+- K-NN (K-nearest neighbor).
+- 
+
