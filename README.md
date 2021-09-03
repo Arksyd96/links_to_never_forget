@@ -45,6 +45,7 @@
 - [Git - petit guide](http://rogerdudler.github.io/git-guide/index.fr.html).
 - [The best of rational male ;)](https://therationalmale.com/the-best-of-rational-male-year-one/).
 - [Streamlit](https://streamlit.io).
+- [PapersWithCode](https://paperswithcode.com/)
 
 ## à apprendre :
 - Feature extraction, feature selection, dimension reduction (PCA algorithm).
