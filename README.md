@@ -4,6 +4,7 @@
 - [Backpropagation and chain rule explained](https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html). (**!important**)
 - [Why Data should be Normalized before Training a Neural Network](https://towardsdatascience.com/why-data-should-be-normalized-before-training-a-neural-network-c626b7f66c7d). (**!important**).
 - [Pytorch deep neural networks algorithms + detailed documentation](https://nn.labml.ai). (**!important**)
+- [Logistic regression backprop](https://math.stackexchange.com/questions/2503428/derivative-of-binary-cross-entropy-why-are-my-signs-not-right)
 - [Deriving Machine Learning Cost Functions using Maximum Likelihood Estimation (MLE)](https://allenkunle.me/deriving-ml-cost-functions-part1).
 - [Step by Step Guide to Master NLP – Word Embedding and Text Vectorization](https://www.analyticsvidhya.com/blog/2021/06/part-5-step-by-step-guide-to-master-nlp-text-vectorization-approaches/).
 - [Thibaut Neveu Deep learning slides](https://drive.google.com/drive/folders/1FRzHmLp5QSu30K28KV3yuFPg7aTLopAc).
