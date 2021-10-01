@@ -13,6 +13,7 @@
 - [CRNN Implementation with keras](https://github.com/qjadud1994/CRNN-Keras).
 - [Region Proposal Network — A detailed view](https://towardsdatascience.com/region-proposal-network-a-detailed-view-1305c7875853).
 - [Basic Slicing and Advanced Indexing in NumPy Python](https://www.geeksforgeeks.org/indexing-in-numpy/).
+- [Difference between neuron and perceptron](https://stats.stackexchange.com/questions/419716/whats-the-difference-between-artificial-neuron-and-perceptron)
 
 ### GANs :
 - [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks).
