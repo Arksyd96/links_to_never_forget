@@ -14,6 +14,8 @@
 - [Region Proposal Network — A detailed view](https://towardsdatascience.com/region-proposal-network-a-detailed-view-1305c7875853).
 - [Basic Slicing and Advanced Indexing in NumPy Python](https://www.geeksforgeeks.org/indexing-in-numpy/).
 - [Difference between neuron and perceptron](https://stats.stackexchange.com/questions/419716/whats-the-difference-between-artificial-neuron-and-perceptron)
+- [Convolutional networks is some details](https://cs231n.github.io/convolutional-networks/)
+- [Filter vs Kernel in convolutional networks](https://stats.stackexchange.com/questions/154798/difference-between-kernel-and-filter-in-cnn/188216)
 
 ### GANs :
 - [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks).
