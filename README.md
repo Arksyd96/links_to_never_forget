@@ -16,6 +16,7 @@
 - [Difference between neuron and perceptron](https://stats.stackexchange.com/questions/419716/whats-the-difference-between-artificial-neuron-and-perceptron)
 - [Convolutional networks is some details](https://cs231n.github.io/convolutional-networks/)
 - [Filter vs Kernel in convolutional networks](https://stats.stackexchange.com/questions/154798/difference-between-kernel-and-filter-in-cnn/188216)
+- [Filter vs Kernet with some gifs](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215)
 
 ### GANs :
 - [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks).
