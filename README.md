@@ -19,6 +19,7 @@
 - [Filter vs Kernel in convolutional networks](https://stats.stackexchange.com/questions/154798/difference-between-kernel-and-filter-in-cnn/188216)
 - [Filter vs Kernet with some gifs](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215)
 - [Why do we use odd kernels ?](https://medium.com/analytics-vidhya/significance-of-kernel-size-200d769aecb1) 
+- [Convolution visualization](https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md)
 
 ### GANs :
 - [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks).
