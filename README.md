@@ -60,3 +60,6 @@
 - Hierarchical clustering, spatial clustering, expectation maximisation (K-means). 
 - K-NN (K-nearest neighbor).
 
+## Other (Other) :D
+- Interesting artists to know: Itelian: Roberto Ferri, Agostino Arrivabene, Sicioldr, Ricciardelli or French: Trez, Monch, Jean Francois Bouron, Pierre-Alain D.
+
